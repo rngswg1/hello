@@ -12,7 +12,9 @@
 
      printf("Chris Petersen!\n");
      printf("Computer and Electrical engineering\n");
-
+     printf ("Nataliya Brana!\n");
+     printf("Computer Engineering!\n");
+     
      return 0;
 
  }
